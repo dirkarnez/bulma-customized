@@ -5,6 +5,8 @@ Webpack 5 based bulma customization boilerplate. Basically following [With webpa
 ### Notes
 - `npm install extract-text-webpack-plugin@next --save-dev` is removed because this plugin is outdated
 
+### TODOs
+- [ ] revamp base on [dirkarnez/bootstrap-5-customized](https://github.com/dirkarnez/bootstrap-5-customized)
 
 ### 1 liner plugins installation
 ```cmd
